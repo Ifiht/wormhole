@@ -1,0 +1,12 @@
+build-essential
+iputils-ping
+ssmtp
+bison
+flex
+nano
+sudo
+zsh
+ca-certificates 
+fonts-liberation 
+lsb-release 
+wget 
